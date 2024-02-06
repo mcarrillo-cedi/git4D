@@ -5,6 +5,7 @@ int main(){
 
     cout << "hello world" << endl;
     cout << "bye world" << endl;
-
+    
+    int x = 4;
     return 0;
 }
