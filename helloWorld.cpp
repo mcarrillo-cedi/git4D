@@ -7,6 +7,7 @@ int main(){
     cout << "bye world" << endl;
     
     int x = 4;
+    cin >> x;
     cout << x;
     return 0;
     
